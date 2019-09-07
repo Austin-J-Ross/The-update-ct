@@ -1,0 +1,11 @@
+version: 1.0
+appname: scrapper
+configurations:
+# Configuration for the Postgresql that can host the data
+  postgres:
+    host: 
+    database: scraplab
+    port: 5432
+    username: 
+    password: 
+# More configurations can be added as required.
