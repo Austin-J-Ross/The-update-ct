@@ -17,9 +17,7 @@ The goals of this project are as follows:
 3. Use data science to make forcasts of the effect of recent bills. Involving:
     * Not determined at this time.
 
-``
-Example visualization coming soon.
-``
+![picture]("picture.PNG")
 
 Reference data to be scraped:
 
